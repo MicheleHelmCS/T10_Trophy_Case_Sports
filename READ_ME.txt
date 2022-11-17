@@ -1,0 +1,1 @@
+HTML file was renamed from "tc_cart" to index.html to properly work on GitHub Pages.
